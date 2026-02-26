@@ -1,0 +1,7 @@
+YOLO/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.param
